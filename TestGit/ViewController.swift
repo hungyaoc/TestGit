@@ -14,7 +14,7 @@ class ViewController: UIViewController, ARSCNViewDelegate {
 
     @IBOutlet var sceneView: ARSCNView!
     
-    // test
+    // test2
     override func viewDidLoad() {
         super.viewDidLoad()
         
